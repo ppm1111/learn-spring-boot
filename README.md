@@ -2,6 +2,6 @@
 
 spring boot 功能：
 
-spring security rbac
-global middleware
-登入密碼加密
+* global middleware
+* 登入密碼加密
+* spring security rbac
